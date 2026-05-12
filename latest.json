@@ -1,6 +1,6 @@
 {
-  "version": "1.1.2",
-  "url": "https://github.com/lukataylo/mcp-host/releases/download/v1.1.2/xTrade.MCP.dmg",
-  "notes": "Skills authoring surface + audit-pass bugfixes. See https://github.com/lukataylo/xtrade-mcp/blob/main/CHANGELOG.md for the full history.",
+  "version": "1.1.3",
+  "url": "https://github.com/lukataylo/mcp-host/releases/download/v1.1.3/xTrade.MCP.dmg",
+  "notes": "Update-channel rework — installs now poll mcp-host for new versions. Earlier 1.1.x: Skills authoring + audit-pass bugfixes. Full history: https://github.com/lukataylo/xtrade-mcp/blob/main/CHANGELOG.md",
   "minSystemVersion": "14.0"
 }
